@@ -2,9 +2,9 @@
 
 **决赛名次：**第一名
 
-**队伍：**hhhhh
+**队伍：** hhhhh
 
-**队员：**林德铝、陈琦
+**队员：** 林德铝、陈琦
 
 
 ## 源码目录
@@ -191,7 +191,7 @@ $$
   Loss=(\frac {sign(x-y)+1}{2}\times scale+1)\times (x-y)^2
 $$
   **代价函数代码 (src/utils.py)**
-  
+
   ```python
   from torch import nn
   import torch
